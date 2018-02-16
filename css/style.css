@@ -80,7 +80,7 @@ body, html {
 }
 
 .side-nav .btn-close{
-  position:absolute;
+  position:sticky;
   top:0;
   right:22px;
   font-size:36px;
