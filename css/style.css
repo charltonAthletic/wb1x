@@ -121,7 +121,7 @@ body, html {
 }
 
 .pimg1{
-  background-image:url('../img/hero.png');
+  background-image:url('../img/img1.jpg');
   min-height:100%;
 }
 
@@ -131,7 +131,7 @@ body, html {
 }
 
 .pimg3{
-  background-image:url('../img/beach.png');
+  background-image:url('../img/img3.jpg');
   min-height:400px;
 }
 
@@ -147,8 +147,12 @@ body, html {
 
 .section-dark{
   background-color:#282e34;
-  text-align: left;
+  /* text-align: left; */
   color:#ddd;
+}
+
+#bulletPoints {
+  text-align: left;
 }
 
 .ptext {
